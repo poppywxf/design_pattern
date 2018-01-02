@@ -1,0 +1,6 @@
+D:\GitDir\design\Clone\Clone\bin\Debug\Clone.exe.config
+D:\GitDir\design\Clone\Clone\obj\Debug\Clone.csprojResolveAssemblyReference.cache
+D:\GitDir\design\Clone\Clone\bin\Debug\Clone.exe
+D:\GitDir\design\Clone\Clone\bin\Debug\Clone.pdb
+D:\GitDir\design\Clone\Clone\obj\Debug\Clone.exe
+D:\GitDir\design\Clone\Clone\obj\Debug\Clone.pdb
